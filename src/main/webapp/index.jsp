@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1>JENKINS AUTOMATION PROJECT COMPLETED</h1>
+    <h1>divya AUTOMATION PROJECT COMPLETED</h1>
     <h1>using git maven jenkins docker docker hub to deploy the slave node to the application</h1>
     <h2>by using below steps</h2>
     <head>
